@@ -41,5 +41,3 @@ const github = {
 };
 
 export default github;
-
-// q=topic:hexo-theme&per_page=100&sort=stars
